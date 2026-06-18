@@ -1,3 +1,7 @@
+## v6.2.0-plus (v0.107.77)
+
+## Updated to the latest AdGuard Home release - 0.107.77
+
 ## v6.1.3-plus (v0.107.74)
 
 ## Initial release
