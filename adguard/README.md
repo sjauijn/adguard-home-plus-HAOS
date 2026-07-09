@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sjauijn/app-adguard-home-plus/main/adguard/icon.png" alt="icon">
+  <img src="https://raw.githubusercontent.com/sjauijn/adguard-home-HAOS/main/adguard/icon.png" alt="icon">
 </p>
 
 # AdGuard Home Plus
@@ -17,7 +17,7 @@ AdGuard Home provides a beautiful, easy and feature-rich web interface to
 easily manage the filtering process and its settings.
 
 <p>
-  <img src="https://raw.githubusercontent.com/sjauijn/app-adguard-home-plus/main/images/screenshot.jpg" alt="icon">
+  <img src="https://raw.githubusercontent.com/sjauijn/adguard-home-HAOS/main/images/screenshot.jpg" alt="icon">
 </p>
 
 ## Installation
