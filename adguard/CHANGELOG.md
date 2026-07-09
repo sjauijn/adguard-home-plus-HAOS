@@ -3,4 +3,6 @@
 
 ## v6.1.3-plus (v0.107.74)
 - Make AdGuard Home on Home Assistant **Perfect! ^_^**
-![Perfect](https://github.com/sjauijn/app-adguard-home-plus/blob/main/images/perfect.jpg)
+<p>
+  <img src="https://raw.githubusercontent.com/sjauijn/adguard-home-plus-HAOS/main/images/perfect.jpg" alt="icon">
+</p>
