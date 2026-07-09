@@ -20,6 +20,18 @@ easily manage the filtering process and its settings.
   <img src="https://raw.githubusercontent.com/sjauijn/adguard-home-plus-HAOS/main/images/screenshot.jpg" alt="icon">
 </p>
 
+## What's different from the original app
+
+This fork moves `AdGuardHome.yaml` from the internal `/data/adguard/` directory
+to `/addon_configs/adguard/`, making it accessible via SFTP without needing
+Portainer or Docker console access.
+
+| | Original | This fork |
+|---|---|---|
+| `AdGuardHome.yaml` location | `/data/adguard/` | `/addon_configs/adguard/` |
+| Accessible via SFTP | ❌ | ✅ |
+| Query log, stats, filters DB | `/data/adguard/` | `/data/adguard/` (unchanged) |
+
 ## Installation
 
 1. **Ensure your Home Assistant device has a
@@ -39,17 +51,3 @@ easily manage the filtering process and its settings.
    ```text
    https://github.com/sjauijn/adguard-home-plus-HAOS
    ```
-
-
-
-## What's different from the original app
-
-This fork moves `AdGuardHome.yaml` from the internal `/data/adguard/` directory
-to `/addon_configs/adguard/`, making it accessible via SFTP without needing
-Portainer or Docker console access.
-
-| | Original | This fork |
-|---|---|---|
-| `AdGuardHome.yaml` location | `/data/adguard/` | `/addon_configs/adguard/` |
-| Accessible via SFTP | ❌ | ✅ |
-| Query log, stats, filters DB | `/data/adguard/` | `/data/adguard/` (unchanged) |
