@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sjauijn/app-adguard-home-plus/main/adguard/icon.png" alt="icon">
+</p>
+
 # AdGuard Home Plus - Original HA Community App + AdGuardHome.yaml via "/addon_configs"
 
 [AdGuard Home][adguard] is a network-wide ad-and-tracker blocking DNS server
