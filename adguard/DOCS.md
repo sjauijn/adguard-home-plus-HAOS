@@ -24,10 +24,6 @@ Portainer or Docker console access.
 | Accessible via SFTP | ❌ | ✅ |
 | Query log, stats, filters DB | `/data/adguard/` | `/data/adguard/` (unchanged) |
 
-**Migration**: On first start, if you already have an existing config in
-`/data/adguard/AdGuardHome.yaml`, it will be automatically copied to the new
-location. The old file will be renamed to `AdGuardHome.yaml.bak`.
-
 ## Installation
 
 The installation of this app is pretty straightforward and not different in
