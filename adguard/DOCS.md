@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sjauijn/app-adguard-home-plus/main/adguard/icon.png" alt="icon">
+  <img src="https://raw.githubusercontent.com/sjauijn/adguard-home-plus-HAOS/main/adguard/icon.png" alt="icon">
 </p>
 
 # AdGuard Home Plus
@@ -88,7 +88,3 @@ DNS-over-TLS locally. If you configure these options please ensure to restart
 the app afterwards. Also to use DNS-over-HTTPS correctly please ensure to
 configure SSL on the app as well as in AdGuard Home itself. Also consider
 that the app and AdGuard Home cannot use the same port for SSL.
-
-[addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
-[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_adguard&repository_url=https%3A%2F%2Fgithub.com%2Fhassio-addons%2Frepository
-[adguard]: https://adguard.com/adguard-home/overview.html
