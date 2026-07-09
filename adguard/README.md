@@ -4,8 +4,7 @@
 
 # AdGuard Home Plus
 
-Network-wide ads & trackers blocking DNS server.
-
+I maintain this app, along with my other Home Assistant apps, solely for my own use. As long as I'm actively using them myself, I'll continue developing and updating them; otherwise, support for apps I no longer need will be discontinued.
 
 ## About
 
