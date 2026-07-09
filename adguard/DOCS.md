@@ -31,9 +31,6 @@ Portainer or Docker console access.
 
 ## Installation
 
-The installation of this app is pretty straightforward and not different in
-comparison to installing any other Home Assistant app.
-
 1. **Ensure your Home Assistant device has a
    [static IP and static external DNS servers!](https://developers.home-assistant.io/docs/operating-system/network)**
    This is important! You **WILL** end up having issues if you skip this step.
