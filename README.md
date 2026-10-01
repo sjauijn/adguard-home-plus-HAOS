@@ -51,3 +51,6 @@ easily manage the filtering process and its settings.
    ```text
    https://github.com/sjauijn/hassio-apps
    ```
+
+## Big thanks to:
+[@AdguardTeam](https://github.com/AdguardTeam/AdGuardHome) for awesome work
